@@ -20,3 +20,5 @@ case $ch in
   ;;
   4)res=`echo "scale=2; $a / $b" | bc`
   ;;
+  
+esac
