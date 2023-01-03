@@ -4,6 +4,6 @@ echo "Enter decimal number: "
 
 read x
 
-h = $(echo "obase=16;$n" | bc)
+h = $(echo "obase=16;$x" | bc)
 
 echo "Hexadecimal: $x"
