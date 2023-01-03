@@ -6,4 +6,4 @@ read x
 
 h = $(echo "obase=16;$n" | bc)
 
-echo 
+echo "Hexadecimal: $x"
