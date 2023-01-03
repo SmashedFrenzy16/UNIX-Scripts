@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo enter x
+echo "Enter decimal number: "
 
 read x
 
