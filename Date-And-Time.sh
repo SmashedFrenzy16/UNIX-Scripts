@@ -6,3 +6,8 @@ month = `date +%m`
 
 day = `date +%d`
 
+hours = `date +%H`
+
+minutes = `date +%M`
+
+seconds = `date +%S`
