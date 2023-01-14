@@ -16,3 +16,5 @@ echo `date`
 
 echo "Today's date is: $day/$month/$year"
 
+echo "Time: $hours:$minutes:$seconds"
+
