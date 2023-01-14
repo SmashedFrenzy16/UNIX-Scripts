@@ -14,4 +14,5 @@ seconds = `date +%S`
 
 echo `date`
 
+echo "Today's date is: $day/$month/$year"
 
