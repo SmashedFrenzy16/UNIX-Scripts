@@ -12,4 +12,6 @@ minutes = `date +%M`
 
 seconds = `date +%S`
 
+echo `date`
+
 
